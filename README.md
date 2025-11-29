@@ -62,5 +62,15 @@ I stand out for my **creativity**, **problem–solving mindset**, and ability to
 ---
 
 <div align="center">
-✨ **Thanks for visiting my profile!** ✨  
+  ✨ Thanks for visiting my profile! ✨<br><br>
+  If you liked my work, feel free to reach out.<br>
+  You can send me an email or check out my portfolio:<br><br>
+
+  📩 <a href="mailto:davidsuancha23@gmail.com">davidsuancha23@gmail.com</a><br>
+  🌐 <a href="https://tu-portafolio.com">My Portfolio</a>
 </div>
+
+<br>
+
+Made by [Daveyify](https://github.com/TUUSUARIO) :)
+
