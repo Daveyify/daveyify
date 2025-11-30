@@ -72,5 +72,5 @@ I stand out for my **creativity**, **problem–solving mindset**, and ability to
 
 <br>
 
-Made by [Daveyify](https://github.com/TUUSUARIO) :)
+Made by [Daveyify](https://github.com/Daveyify) :)
 
